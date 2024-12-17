@@ -256,7 +256,7 @@
             </trans-unit>
             <trans-unit id="67">
                 <source>This value should be greater than or equal to {{ compared_value }}.</source>
-                <target>Värdet ska bara större än eller detsamma som {{ compared_value }}.</target>
+                <target>Värdet ska vara större än eller detsamma som {{ compared_value }}.</target>
             </trans-unit>
             <trans-unit id="68">
                 <source>This value should be identical to {{ compared_value_type }} {{ compared_value }}.</source>
